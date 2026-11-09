@@ -1,0 +1,14 @@
+{
+  "name": "openline",
+  "displayName": "Openline",
+  "version": "1.0.0",
+  "description": "Openline is your AI frontdesk. It gives Claude a phone number and an email inbox. Calls, SMS, and emails all share the same memory. Use it to call and find your next lead or do a follow up. Let it answer your front desk, take messages, and tell callers what they need to know. Have it book a table at a restaurant, schedule an appointment, or confirm a reservation for you. Send reminders, chase a quote from a vendor, or check in with a customer after a conversation.\nYou can monitor your calls, emails and sms at https://staging.openline.scalarfield.io/site/dashboard",
+  "author": {
+    "name": "Scalar Field",
+    "email": "info@scalarfield.io",
+    "url": "https://scalarfield.io"
+  },
+  "homepage": "https://staging.openline.scalarfield.io/site/",
+  "keywords": ["email", "phone", "sms", "inbox", "calls"],
+  "license": "MIT"
+}
